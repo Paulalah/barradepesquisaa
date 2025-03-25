@@ -12,7 +12,7 @@ const products = [
     { name: "Base matte Poweder Una", price: "R$ 599", img: "img//Una.jpg" },
     { name: "Pó Solto Givenchy", price: "R$ 499,90", img: "img//Poo.jpg" },
     { name: "Pó Solto Nina Secrets", price: "R$ 54,99", img: "img//Pó.jpg" },
-    { name: "KIt Pincéis Real Techniques", price: "R$ 107,69", img: "img//Pincel.jpg" },
+    { name: "KIt Pincéis Real Techniques", price: "R$ 107,69", img: "img//Pinceis.jpg" },
     { name: "Hydra Zen Lancôme", price: "R$ 358,90", img: "img//hydra.jpg" }
 ];
 
